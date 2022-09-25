@@ -31,6 +31,6 @@
 **Step 10:** Rinse your mouth with water and spit out any toothpaste residue left in your mouth <br />
 **Step 11:** Rinse the toothbrush bristles thoroughly and place in back in the holder <br />
 
-
+#### 2. Two Katas #### 
 
 
