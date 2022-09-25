@@ -44,11 +44,11 @@ Another good reason is that the application will be documented and designed arou
 
 #### What was annoying or difficult? ####
 
-I found it difficult to create a behavior implementation in BDD without having a user to interact with an interface. Therefore creating a given when then scenario without a user made it more challenging to communicate with the customer. 
+We found it difficult to create a behavior implementation in BDD without having a user to interact with an interface. Therefore creating a given when then scenario without a user made it more challenging to communicate with the customer. 
 
 #### What surprised you? ####
 
-It surprised me that we had to combine normal language and then convert it to a programming language. It surprised us as well how agile this approach is and therefore focus was much more on the behavior than the actual implementation. 
+It surprised us that we had to combine normal language and then convert it to a programming language. It surprised us as well how agile this approach is and therefore focus was much more on the behavior than the actual implementation. 
 
 #### Did BDD help you understand the problem domain more  ####
 
@@ -56,4 +56,4 @@ Yes indeed, it works great by specifying what behavior you expect for each featu
 
 #### Did BDD help you write some tests you wouldn’t otherwise have thought of?  ####
 
-Yes as a developer im rather used to focus on the development of individual components rather having a similar process just on the level of features. 
+Yes as a developer we are rather used to focus on the development of individual components rather having a similar process just on the level of features. 
