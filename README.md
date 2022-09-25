@@ -33,6 +33,11 @@
 **Step 11:** Rinse the toothbrush bristles thoroughly and place in back in the holder <br />
 
 ## 2. Two Katas 
+### 1. FAHRENHEIT-TO-CELCIUS CONVERTER ###
+Use BDD to create a fahrenheit-to-celcius converter. 
+Use BDD to extend it to a celcius-to-fahrenheit converter. 
+### 2. ROMAN NUMERAL KATA ###
+Implement an “Arabic numeral to roman numeral” converter using BDD
 
 #### What was positive and good about using BDD? #### 
 
