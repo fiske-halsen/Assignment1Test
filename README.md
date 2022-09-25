@@ -19,7 +19,7 @@
 
 #### 1. Alien ####
 
-**Step 1:** First grab the toothpaste from the holder \n
+**Step 1:** First grab the toothpaste from the holder <br />
 **Step 2:** Screw of the cap counter-clockwise til the cap comes off completely 
 **Step 3:** Next up figure out which hand is your preferable to brush with
 **Step 4:** With your preferable hand grab the toothbrush from the holder by the shaft so that the bristles are pointing upwards
