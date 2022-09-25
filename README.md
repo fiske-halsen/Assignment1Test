@@ -33,5 +33,13 @@
 
 ## 2. Two Katas 
 
+#### What was positive and good about using BDD? ####
 
+#### What was annoying or difficult? ####
+
+#### What surprised you? ####
+
+#### Did BDD help you understand the problem domain more  ####
+
+#### Did BDD help you write some tests you wouldn’t otherwise have thought of?  ####
 
