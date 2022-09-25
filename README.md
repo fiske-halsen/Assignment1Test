@@ -4,6 +4,6 @@
 
 * Phillip Thomas Isenborg Andersen, cph-pa124@cphbusiness.dk
 
-### 1. Reflection
+## 1. Reflection
 
 #### 1. Shooting ####
