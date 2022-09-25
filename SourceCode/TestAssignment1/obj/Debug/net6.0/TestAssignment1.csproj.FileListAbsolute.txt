@@ -1,0 +1,15 @@
+C:\Users\phillip\Desktop\SystemIntegrationAssignment1\TestAssignment1\TestAssignment1\bin\Debug\net6.0\TestAssignment1.exe
+C:\Users\phillip\Desktop\SystemIntegrationAssignment1\TestAssignment1\TestAssignment1\bin\Debug\net6.0\TestAssignment1.deps.json
+C:\Users\phillip\Desktop\SystemIntegrationAssignment1\TestAssignment1\TestAssignment1\bin\Debug\net6.0\TestAssignment1.runtimeconfig.json
+C:\Users\phillip\Desktop\SystemIntegrationAssignment1\TestAssignment1\TestAssignment1\bin\Debug\net6.0\TestAssignment1.dll
+C:\Users\phillip\Desktop\SystemIntegrationAssignment1\TestAssignment1\TestAssignment1\bin\Debug\net6.0\TestAssignment1.pdb
+C:\Users\phillip\Desktop\SystemIntegrationAssignment1\TestAssignment1\TestAssignment1\obj\Debug\net6.0\TestAssignment1.csproj.AssemblyReference.cache
+C:\Users\phillip\Desktop\SystemIntegrationAssignment1\TestAssignment1\TestAssignment1\obj\Debug\net6.0\TestAssignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phillip\Desktop\SystemIntegrationAssignment1\TestAssignment1\TestAssignment1\obj\Debug\net6.0\TestAssignment1.AssemblyInfoInputs.cache
+C:\Users\phillip\Desktop\SystemIntegrationAssignment1\TestAssignment1\TestAssignment1\obj\Debug\net6.0\TestAssignment1.AssemblyInfo.cs
+C:\Users\phillip\Desktop\SystemIntegrationAssignment1\TestAssignment1\TestAssignment1\obj\Debug\net6.0\TestAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\phillip\Desktop\SystemIntegrationAssignment1\TestAssignment1\TestAssignment1\obj\Debug\net6.0\TestAssignment1.dll
+C:\Users\phillip\Desktop\SystemIntegrationAssignment1\TestAssignment1\TestAssignment1\obj\Debug\net6.0\refint\TestAssignment1.dll
+C:\Users\phillip\Desktop\SystemIntegrationAssignment1\TestAssignment1\TestAssignment1\obj\Debug\net6.0\TestAssignment1.pdb
+C:\Users\phillip\Desktop\SystemIntegrationAssignment1\TestAssignment1\TestAssignment1\obj\Debug\net6.0\TestAssignment1.genruntimeconfig.cache
+C:\Users\phillip\Desktop\SystemIntegrationAssignment1\TestAssignment1\TestAssignment1\obj\Debug\net6.0\ref\TestAssignment1.dll
