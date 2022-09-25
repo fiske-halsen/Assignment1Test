@@ -34,6 +34,8 @@
 
 ## 2. Two Katas 
 
+> :warning: **Look in the source code folder**
+
 ### 1. FAHRENHEIT-TO-CELCIUS CONVERTER ###
 Use BDD to create a fahrenheit-to-celcius converter. 
 Use BDD to extend it to a celcius-to-fahrenheit converter. 
