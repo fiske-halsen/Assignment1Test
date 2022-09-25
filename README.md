@@ -3,6 +3,7 @@
 #### Made by: ####
 
 * Phillip Thomas Isenborg Andersen, cph-pa124@cphbusiness.dk
+* Sumit Dey, cph-sd152@cphbusiness.dk
 
 ## 1. Reflection
 
